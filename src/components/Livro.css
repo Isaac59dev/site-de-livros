@@ -1,0 +1,27 @@
+.livro {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 200px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .livro img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .livro button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .livro button:hover {
+    background-color: #45a049;
+  }
+  
